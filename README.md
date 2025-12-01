@@ -38,5 +38,5 @@
 </p>
 
 <p align=center>
-    <img alt="Screenshot" src="https://interversehq.com/qview/assets/img/screenshot3.png">
+    <img alt="Desktop Recording Preview" src="https://raw.githubusercontent.com/cultmt616god-ship-it/qview-plus/refs/heads/master/ezgif-7c399db3119e63e4.gif">
 </p>
